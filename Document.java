@@ -1,4 +1,4 @@
-
+Class StringSetTest {
 @Test
 	public void isEmptySet(){
 		assertTrue("Devrait etre vide ", e.set.size()==0);
@@ -48,3 +48,4 @@
 	}
 l2.add("fofo"); l2.add("toto"); l2.add("fifi");
 		l4.add("tata"); l4.add("toto"); l4.add("titi"); l4.add("fofo"); l4.add("toto"); l4.add("fifi");
+}
